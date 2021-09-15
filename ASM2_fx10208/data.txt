@@ -1,0 +1,7 @@
+ID			|		Name		|	Quanlity	|	Price
+PD01		|		Bread		|		2		|	18.0 
+PD12		|		Milk		|		5		|	6.0 
+PD05		|		Lemon		|		35		|	2.0 
+PD22		|		Coffee		|		9		|	9.0 
+PD08		|		Soda		|		55		|	15.0 
+PD06		|		Pepsi		|		65		|	22.0 
